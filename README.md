@@ -30,7 +30,7 @@ Founder of [PT Jiji Labs Digital](https://jijilabsdigital.com). I lead product a
 <a href="https://flintmaker.com"><img src="media/flintmaker.jpg" width="640" alt="FlintMaker: spark it, make it"></a>
 
 **FlintMaker** · Web & CLI. Describe what you want and get a live website, then keep building in chat, in the editor or from your terminal. 40 free credits every month, no card needed.
-[flintmaker.com](https://flintmaker.com)
+[flintmaker.com](https://flintmaker.com) · [flint CLI on GitHub](https://github.com/ilyasaalmadani/flintmaker-cli) · `npm i -g flintmaker`
 
 More apps are on their way. See the full lineup at [jijilabsdigital.com](https://jijilabsdigital.com).
 
