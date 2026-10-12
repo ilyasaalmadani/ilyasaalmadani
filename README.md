@@ -21,7 +21,7 @@ Founder of [PT Jiji Labs Digital](https://jijilabsdigital.com). I lead product a
 |---|---|---|
 | **SHIPSAFE** · Mac | Release-readiness scanner for developers | [Mac App Store](https://apps.apple.com/us/app/shipsafe-release-readiness/id6808833747?mt=12) |
 | **Panezo** · iPhone | Two websites side by side on one screen, for comparing and researching faster | [App Store](https://apps.apple.com/app/panezo/id6815559754) |
-| **Servisku** · iPhone | Service history, documents and reminders for your car and motorbike | [App Store](https://apps.apple.com/app/id6818012170) |
+| **Servisku** · iPhone | Service history, documents and reminders for your car and motorbike | [App Store (Indonesia)](https://apps.apple.com/id/app/id6818012170) |
 | **FlintMaker** · Web & CLI | Describe an app, get a working web app, keep building in chat or your terminal | [flintmaker.com](https://flintmaker.com) |
 
 More apps are on their way. See the full lineup at [jijilabsdigital.com](https://jijilabsdigital.com).
