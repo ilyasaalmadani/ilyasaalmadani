@@ -15,6 +15,13 @@ Founder of [PT Jiji Labs Digital](https://jijilabsdigital.com). I lead product a
 
 [Mac App Store](https://apps.apple.com/us/app/shipsafe-release-readiness/id6808833747?mt=12) · [Demo & screenshots](https://github.com/ilyasaalmadani/shipsafe-macos) · [Free pre-release checklist for iOS/Mac devs](https://github.com/ilyasaalmadani/shipsafe-macos/blob/main/RELEASE-CHECKLIST.md)
 
+### 🧭 Open source: VibePreflight
+
+<a href="https://github.com/ilyasaalmadani/vibepreflight"><img src="https://raw.githubusercontent.com/ilyasaalmadani/vibepreflight/main/media/card.svg" width="640" alt="VibePreflight card: hygiene signal, routes, env vars and findings for a sample app"></a>
+
+**Know what your AI-built web app is about to ship.** VibePreflight maps your routes, environment variables and deploy entrypoints into an offline report, flags common AI-coding slips (a service-role key with a public prefix, a server secret read from a client component), and writes a card like the one above for your README. Local, zero runtime dependencies, MIT.
+[GitHub](https://github.com/ilyasaalmadani/vibepreflight)
+
 ### Also live
 
 <a href="https://apps.apple.com/app/panezo/id6815559754"><img src="media/panezo.jpg" width="640" alt="Panezo: two websites, one iPhone screen"></a>
