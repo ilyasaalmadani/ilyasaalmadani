@@ -16,6 +16,13 @@ Founder of [PT Jiji Labs Digital](https://jijilabsdigital.com). I lead product a
 
 [Mac App Store](https://apps.apple.com/app/id6808833747?mt=12) · [Demo & screenshots](https://github.com/ilyasaalmadani/shipsafe-macos) · [Free pre-release checklist for iOS/Mac devs](https://github.com/ilyasaalmadani/shipsafe-macos/blob/main/RELEASE-CHECKLIST.md)
 
+### 🛠 Building in the open: Indie HQ
+
+<a href="https://github.com/ilyasaalmadani/indie-hq"><img src="https://raw.githubusercontent.com/ilyasaalmadani/indie-hq/main/media/social-preview.jpg" width="640" alt="Indie HQ: your whole app business on one screen"></a>
+
+**Your whole app business on one screen.** App Store, Google Play, Stripe, uptime and cloud cost on your TV, self-hosted on a Steam Deck, Pi or Mac mini. Free and open source (MIT).
+[⭐ Star Indie HQ](https://github.com/ilyasaalmadani/indie-hq) · [Join the waitlist](https://github.com/ilyasaalmadani/indie-hq/issues/1)
+
 ### Also live
 
 <a href="https://apps.apple.com/app/panezo/id6815559754"><img src="media/panezo.jpg" width="640" alt="Panezo: two websites, one iPhone screen"></a>
