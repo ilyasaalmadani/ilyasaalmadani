@@ -2,7 +2,7 @@
 
 Founder of [PT Jiji Labs Digital](https://jijilabsdigital.com). I lead product and design for calm, private apps on Mac, iPhone and the web: no ads, no tracking, and your data stays on your device.
 
-### ⭐ New on the Mac App Store: SHIPSAFE
+### ⭐ Live on the Mac App Store: SHIPSAFE 1.1.1
 
 <a href="https://github.com/ilyasaalmadani/shipsafe-macos"><img src="https://raw.githubusercontent.com/ilyasaalmadani/shipsafe-macos/main/media/social-preview.jpg" width="640" alt="SHIPSAFE: catch leaked keys before you ship"></a>
 
@@ -10,10 +10,11 @@ Founder of [PT Jiji Labs Digital](https://jijilabsdigital.com). I lead product a
 
 - 148 release checks: secrets, debug config, admin routes, dependencies, destructive migrations
 - Reads Swift, plist, xcconfig, JSON, YAML and every other text file
+- **New in 1.1.1, iOS Pack:** ATS exceptions, credentials in `print`/`NSLog`, `get-task-allow`, committed `.p8`/`.p12` signing keys
 - No account, no upload, no AI calls. Your code never leaves your Mac
 - $9.99 once. No subscription
 
-[Mac App Store](https://apps.apple.com/us/app/shipsafe-release-readiness/id6808833747?mt=12) · [Demo & screenshots](https://github.com/ilyasaalmadani/shipsafe-macos) · [Free pre-release checklist for iOS/Mac devs](https://github.com/ilyasaalmadani/shipsafe-macos/blob/main/RELEASE-CHECKLIST.md)
+[Mac App Store](https://apps.apple.com/app/id6808833747?mt=12) · [Demo & screenshots](https://github.com/ilyasaalmadani/shipsafe-macos) · [Free pre-release checklist for iOS/Mac devs](https://github.com/ilyasaalmadani/shipsafe-macos/blob/main/RELEASE-CHECKLIST.md)
 
 ### Also live
 
