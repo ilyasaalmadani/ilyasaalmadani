@@ -16,6 +16,13 @@ Founder of [PT Jiji Labs Digital](https://jijilabsdigital.com). I lead product a
 
 [Mac App Store](https://apps.apple.com/app/id6808833747?mt=12) · [Demo & screenshots](https://github.com/ilyasaalmadani/shipsafe-macos) · [Free pre-release checklist for iOS/Mac devs](https://github.com/ilyasaalmadani/shipsafe-macos/blob/main/RELEASE-CHECKLIST.md)
 
+### 📖 Open source: App Store Rejection Playbook
+
+<a href="https://github.com/ilyasaalmadani/app-store-rejection-playbook"><img src="https://raw.githubusercontent.com/ilyasaalmadani/app-store-rejection-playbook/main/media/social-preview.jpg" width="640" alt="App Store Rejection Playbook: decode it, fix it, reply, get approved"></a>
+
+**Got rejected by App Review?** Real rejection cases, the fixes that worked, copy-paste Resolution Center replies and an AI agent skill that drafts yours. MIT.
+[⭐ Star the playbook](https://github.com/ilyasaalmadani/app-store-rejection-playbook) · [Share your rejection story](https://github.com/ilyasaalmadani/app-store-rejection-playbook/issues/new?template=rejection-case.yml)
+
 ### 🛠 Building in the open: Indie HQ
 
 <a href="https://github.com/ilyasaalmadani/indie-hq"><img src="https://raw.githubusercontent.com/ilyasaalmadani/indie-hq/main/media/social-preview.jpg" width="640" alt="Indie HQ: your whole app business on one screen"></a>
